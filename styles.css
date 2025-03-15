@@ -33,13 +33,13 @@ body {
 }
 
 h1 {
-    color: #1a73e8;
-    font-size: 2.2em;
-    margin-bottom: 20px;
+    color: #1a73e8;  /* Microsoft blue color */
+    font-size: 2.5em;
+    margin-bottom: 10px;
 }
 
 .subtitle {
-    color: #555;
+    color: #333;
     margin-bottom: 20px;
 }
 
@@ -63,7 +63,7 @@ input[type="password"]:focus {
 input[type="submit"] {
     width: 100%;
     padding: 12px;
-    background-color: #1a73e8;
+    background-color: #1a73e8; /* Microsoft blue */
     color: white;
     border: none;
     border-radius: 6px;
